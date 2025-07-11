@@ -1,0 +1,13 @@
+[ALERT] [2025-07-11 19:06:00] SQL Injection detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Brute Force Login detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Brute Force Login detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Brute Force Login detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Admin Area Access detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Directory Traversal detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Remote File Inclusion detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] SQL Injection detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Brute Force Login detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Brute Force Login detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Brute Force Login detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Admin Area Access detected from 192.168.1
+[ALERT] [2025-07-11 19:06:00] Brute Force detected from 192.168.1 (attempts: 6)
